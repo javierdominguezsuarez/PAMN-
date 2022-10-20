@@ -6,7 +6,8 @@
     <string name="amazing_service">Amazing (20%)</string>
     <string name="service_question">How was the service?</string>
     <string name="cost_of_service">Cost of service</string>
-    <string name="calculate">Calculate</string>
+    <string name="calculate">CALCULATE</string>
     <string name="tip_amount">Tip amount: %s</string>
     <string name="error_message">You need to rate the service first</string>
+    <string name="label">Cost of Service</string>
 </resources>
